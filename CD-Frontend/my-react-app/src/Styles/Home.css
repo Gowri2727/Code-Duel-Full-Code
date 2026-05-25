@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background-color: #282c34;
+  color: white;
+  font-size: 18px;
+  align-items: center;
+}
+
+.profile-btn {
+  background-color: #61dafb;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.home-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 30px;
+  gap: 20px;
+}
+.progress-bar {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.fill {
+  height: 20px;
+  background-color: #4caf50;
+  transition: width 0.3s ease;
+}
