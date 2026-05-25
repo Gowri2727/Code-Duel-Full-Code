@@ -1,8 +1,8 @@
 # ⚔️ Code-Duel
 
 AI-powered real-time coding battle platform where users compete by solving coding problems and win based on code efficiency.
-WebSite-https://code-duel-frontend-six.vercel.app
 ---
+WebSite-https://code-duel-frontend-six.vercel.app
 
 ## 🚀 Features
 
@@ -43,8 +43,7 @@ Create a room, invite friends, and wait until everyone is ready before starting.
 
 Players receive the same AI-generated question and solve it within the time limit.
 
-
-
+<img width="1756" height="843" alt="image" src="https://github.com/user-attachments/assets/b87c8ed1-7ce7-46bc-b618-7cd89070946a" />
 
 
 
